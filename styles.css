@@ -1,0 +1,474 @@
+html,
+body {
+    font-size: 100%;
+    line-height: 26px;
+    background: #f6efe5;
+    background-size: 60%;
+    color: #0d2c40;
+    margin: 0;
+}
+
+.page-wrapper {
+    position: relative;
+    width: 100%;
+    max-width: 120em;
+    max-height: 4000px;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.intro {
+    background: url(blackmythwukong.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: 1;
+    padding: 24em 0;
+    position: relative;
+}
+
+.intro header {
+    position: relative;
+    background: #080607;
+    overflow: hidden;
+    width: 15%;
+    height: 40em;
+    float: left;
+}
+
+.intro header h2 {
+  position: relative;
+  font-family: 'Wonton', sans-serif;
+  color: #847c84;
+  font-size: 250%;
+  line-height: 1.25em;
+  top: 3em;
+  left: -1em;
+  width: auto;
+  margin: 0;
+  -webkit-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.intro header h3 {
+    position: relative;
+    font-family: 'Wonton', sans-serif;
+    background-size: 100%;
+    float: right;
+    color: #847c84;
+    font-size: 250%;
+    line-height: 1.25em;
+    width: 30%;
+    height: 20.019em;
+    right: .5em;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+.preamble {
+    position: relative;
+    width: 65%;
+    margin: 0;
+    left: 15em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.preamble h1 {
+    font-family: 'Wonton', sans-serif;
+    font-size: 200%;
+}
+
+.early-life {
+    background: url(mount-huaguo.jpg) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: 1;
+    padding: 24em 0;
+    position: relative;
+}
+
+.early-life #banner1{
+    position: relative;
+    background: #f6efe5;
+    overflow: hidden;
+    width: 15%;
+    height: auto;
+    float: left;
+    left: 1em;
+    bottom: 23em;
+    border-style:ridge;
+    border-color: #080607;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.early-life #banner2{
+    position: relative;
+    background: #f6efe5;
+    overflow: hidden;
+    width: 30%;
+    height: 16em;
+    float: right;
+    right: 1em;
+    top: 7em;
+    border-style:ridge;
+    border-color: #080607;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.early-life #banner2 p, #banner1 h1 {
+    font-size: small;
+    text-align: center;
+}
+
+.havoc-in-heaven {
+    position: relative;
+    width: 60%;
+    margin: 0;
+    left: 26em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.havoc-in-heaven h1{
+    font-family: 'Wonton', sans-serif;
+    font-size: 200%;
+}
+
+
+.imprisonment {
+    background: url(imprisonment_wukong.avif) no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    z-index: 1;
+    padding: 21em 0;
+    position: relative;
+}
+
+.imprisonment #banner3 {
+    position: relative;
+    background: #080607;
+    overflow: hidden;
+    width: 15%;
+    height: 40em;
+    float: left;
+    top: -36.05em;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.imprisonment #banner3 h1 {
+    position: relative;
+    font-family: 'Wonton', sans-serif;
+    color: #847c84;
+    font-size: 300%;
+    line-height: 1.25em;
+    top: 9em;
+    left: .5em;
+    width: auto;
+    margin: 0;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.imprisonment #banner4 {
+    position: relative;
+    background: #f6efe5;
+    overflow: hidden;
+    width: 30%;
+    height: 16em;
+    float: right;
+    right: 1em;
+    top: 4em;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    border-style:ridge;
+    border-color: #080607;
+}
+
+.imprisonment #banner4 p {
+    font-size: small;
+    text-align: center;
+}
+
+
+.journey-to-the-west {
+    z-index: 1;
+    padding: 5em 0;
+    position: relative;
+    max-height: 300px;
+}
+
+.journey-to-the-west #banner5 {
+    position: relative;
+    background: #080607;
+    overflow: hidden;
+    width: 100%;
+    height: 10em;
+    float: right;
+    top: -19em;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.journey-to-the-west #banner5 h1 {
+    position: relative;
+    font-family: 'Wonton', sans-serif;
+    color: #847c84;
+    font-size: 350%;
+    line-height: 1.25em;
+    width: 200%;
+    margin: 0;
+    top: .65em;
+    left: 9em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.journey-to-the-west #banner6 {
+    position: relative;
+    overflow: hidden;
+    width: 50%;
+    right: -23em;
+    top: -17em;
+    text-align: center;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.companions {
+    position: relative;
+    max-height: 700px;
+}
+
+.companions .zhu-bajie {
+    background: url(zhu-bajie.webp) no-repeat center;
+    background-size: contain;
+    z-index: 1;
+    padding: 21em 0;
+    max-width: 500px;
+    max-height: 500px;;
+    position: relative;
+    top: .75em;
+    left: 1em;
+}
+
+.companions .tang-sanzang {
+    background: url(tang-sanzang.webp) no-repeat left;
+    background-size: contain;
+    z-index: 1;
+    padding: 21em 0;
+    max-width: 500px;
+    max-height: 500px;;
+    position: relative;
+    top: -41.3em;
+    left: 34em;
+}
+
+.companions .sha-wujing {
+    background: url(sha-wujing.webp) no-repeat right;
+    background-size: contain;
+    z-index: 1;
+    padding: 21em 0;
+    max-width: 500px;
+    max-height: 500px;;
+    position: relative;
+    top: -83.5em;
+    left: 62em;
+}
+
+.companions .sanzang-banner {
+    position: relative;
+    background: #080607;
+    overflow: hidden;
+    width: 25.8em;
+    height: 4em;
+    float: left;
+    bottom: -17em;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.companions .sanzang-banner h1 {
+    position: relative;
+    font-family: 'Wonton', sans-serif;
+    color: #847c84;
+    font-size: 250%;
+    line-height: 1.25em;
+    width: 300%;
+    margin: 0;
+    right: -4.2em;
+    top: .1em;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+.companions .sanzang-banner h2 {
+      position: relative;
+      font-family: 'Wonton', sans-serif;
+      color: #847c84;
+      font-size: 250%;
+      line-height: 1.25em;
+      width: auto;
+      margin: 0;
+      top: -1.1em;
+      left: .5em;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+.companions .bajie-banner {
+    position: relative;
+    background: #080607;
+    overflow: hidden;
+    width: 15%;
+    height: 41.1em;
+    float: left;
+    top: -20.55em;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.companions .bajie-banner h1 {
+    position: relative;
+    font-family: 'Wonton', sans-serif;
+    color: #847c84;
+    font-size: 250%;
+    line-height: 1.25em;
+    top: 9em;
+    left: -2em;
+    width: 300%;;
+    margin: 0;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+ .companions .bajie-banner h2 {
+      position: relative;
+      font-family: 'Wonton', sans-serif;
+      background-size: 100%;
+      float: right;
+      color: #847c84;
+      font-size: 250%;
+      line-height: 1.25em;
+      width: 30%;
+      height: 20.019em;
+      top: 1em;
+      right: .8em;
+      margin: 0;
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+
+.companions .wujing-banner {
+    position: relative;
+    background: #080607;
+    overflow: hidden;
+    width: 15%;
+    height: 40.5em;
+    float: left;
+    top: -20.25em;
+    left: 26.5em;
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+}
+
+.companions .wujing-banner h1 {
+    position: relative;
+    font-family: 'Wonton', sans-serif;
+    color: #847c84;
+    font-size: 250%;
+    line-height: 1.25em;
+    top: 9em;
+    left: -2em;
+    width: 300%;
+    margin: 0;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg);
+    -ms-transform: rotate(-90deg);
+    -o-transform: rotate(-90deg);
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  
+.companions .wujing-banner h2 {
+    position: relative;
+    font-family: 'Wonton', sans-serif;
+    background-size: 100%;
+    float: right;
+    color: #847c84;
+    font-size: 250%;
+    line-height: 1.25em;
+    width: 30%;
+    height: 20.019em;
+    top: 1em;
+    right: .85em;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+
+#closing-banner{
+    position: absolute;
+    background: #080607;
+    overflow: hidden;
+    width: 100%;
+    height: 10em;
+    bottom: -1em;
+}
+
