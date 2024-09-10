@@ -462,6 +462,10 @@ body {
     box-sizing: border-box;
 }
 
+a:hover {
+    background-color: aquamarine;
+}
+
 #closing-banner{
     position: absolute;
     background: #080607;
